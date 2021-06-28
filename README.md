@@ -10,4 +10,4 @@ Here, follows a screenshot of the model:
 ![Model](./Screenshots/Modello.png)
 
 ## Documentation
-The full documentation (in Italian) of the analysis can be founf in the [Documentation](./Documentazione.pdf) file.
+The full documentation (in Italian) of the analysis can be found in the [Documentation](./Documentazione.pdf) file.
